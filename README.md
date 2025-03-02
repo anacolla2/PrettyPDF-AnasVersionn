@@ -10,13 +10,13 @@ Quarto extension for a template to generate a PDF with (pretty) styling using La
 To install the Quarto extension, create a directory, and use the template file:
 
 ``` bash
-quarto use template nrennie/PrettyPDF
+quarto use template anacolla2/PrettyPDF
 ```
 
 To use the extension in an existing project without installing the template file:
 
 ``` bash
-quarto install extension nrennie/PrettyPDF
+quarto install extension anacolla2/PrettyPDF
 ```
 Note that you will need to update the output format to `format: PrettyPDF-pdf` to enable use of the extension. For book projects, add:
 
@@ -28,7 +28,7 @@ to the `_quarto.yml` file.
 
 ## Adjusting LaTeX Styling
 
-If you want to update the LaTeX version of this template to use a different colour or logo, open up the `_extensions/nrennie/PrettyPDF/PrettyPDF.tex` file after you have installed the extension.
+If you want to update the LaTeX version of this template to use a different colour or logo, open up the `_extensions/anacolla2/PrettyPDF/PrettyPDF.tex` file after you have installed the extension.
 
 ### Logo
 
