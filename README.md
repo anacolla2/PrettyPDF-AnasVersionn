@@ -1,3 +1,6 @@
+# AnasVersion
+Modified PrettyPDF to include DATA604 and 608 logo at CUNY SPS for Spring Semester
+
 # PrettyPDF
 
 Quarto extension for a template to generate a PDF with (pretty) styling using LaTeX. Use `PrettyPDF-pdf` as the format if using LaTeX.
