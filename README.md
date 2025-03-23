@@ -10,13 +10,13 @@ Quarto extension for a template to generate a PDF with (pretty) styling using La
 To install the Quarto extension, create a directory, and use the template file:
 
 ``` bash
-quarto use template anacolla2/PrettyPDF
+quarto use template anacolla2/PrettyPDF-AnasVersionn
 ```
 
 To use the extension in an existing project without installing the template file:
 
 ``` bash
-quarto install extension anacolla2/PrettyPDF
+quarto install extension anacolla2/PrettyPDF-AnasVersionn
 ```
 Note that you will need to update the output format to `format: PrettyPDF-pdf` to enable use of the extension. For book projects, add:
 
