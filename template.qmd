@@ -2,7 +2,7 @@
 title: "Week # Assignment"
 subtitle: "Week Title"
 author: "Ana Collado"
-description: "DATA604- Prof. Jorge-Pagán"
+description: "DATA608- Prof. George Hagstrom"
 format: PrettyPDF-pdf
 ---
 
